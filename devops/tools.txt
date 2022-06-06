@@ -1,0 +1,12 @@
+git
+maven
+jenkins
+artifactory
+docket
+qubernet
+datadog
+terraform
+shellscriip
+yaml
+aws
+cloud infra devops
